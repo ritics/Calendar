@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BNMMyCollectionViewController collectionView:cellForItemAtIndexPath:]:BNMMyCollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "myCell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__29+[BNMhelperWords countWords:]_block_invoke:BNMhelperWords.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BNMMyCollectionViewController unwindToList:]:BNMMyCollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BNMMyCollectionViewController countWords]:BNMMyCollectionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BNCalViewTests testSortedWordCount]:BNCalViewTests.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BNMMyCollectionViewController collectionView:viewForSupplementaryElementOfKind:atIndexPath:]:BNMMyCollectionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BNMAddNoteViewController viewDidLoad]:BNMAddNoteViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BNMMyCollectionViewController prepareForSegue:sender:]:BNMMyCollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BNMAddNoteViewController prepareForSegue:sender:]:BNMAddNoteViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.noteForDate">
+            </PersistentString>
+            <PersistentString
+               value = "self.textNote">
+            </PersistentString>
+            <PersistentString
+               value = "self.textNote.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BNMMyCollectionViewController willRotateToInterfaceOrientation:duration:]:BNMMyCollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.collectionView">
+            </PersistentString>
+            <PersistentString
+               value = "self.myLayout">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[BNMhelperWords countWords:]:BNMhelperWords.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "key">
+            </PersistentString>
+            <PersistentString
+               value = "WordCount">
+            </PersistentString>
+            <PersistentString
+               value = "sortedWordCount">
+            </PersistentString>
+            <PersistentString
+               value = "[noteWordCountDic objectForKey:key]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BNMMyCollectionViewController loadInitialData]:BNMMyCollectionViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
