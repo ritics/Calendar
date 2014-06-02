@@ -1,4 +1,4 @@
 Calendar
 ========
 
-Calendar with note taking option.
+iOS Calendar with simple note taking and a summary of most used words in notes.
